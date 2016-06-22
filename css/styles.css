@@ -1,0 +1,466 @@
+body {
+	background: #fff;
+}
+
+.wrapper {
+	max-width: 100%;
+	margin: 0 auto;
+	background: #;
+	overflow: hidden;
+}
+
+.header-holder {
+	padding-left: 165px;
+	position: absolute;
+	z-index: 1;
+	width: 80%;
+}
+
+.bx-wrapper .bx-viewport {
+	border: 0;
+}
+
+.bxslider-bg {
+	position: relative;
+}
+
+.header {
+	overflow: hidden;
+	width: 99%;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	margin-bottom: 40px;
+	z-index: 1;
+	position: absolute;
+}
+
+.logo {
+
+}
+
+.header-content {
+	overflow: hidden;
+}
+
+.header-content-left {
+	overflow: hidden;
+	width: 50%;
+	float: left;
+}
+
+.header-content-right {
+	overflow: hidden;
+	width: 50%;
+	float: right;
+}
+
+.bx-wrapper {
+
+}
+
+.bx-wrapper .bx-controls-direction a {
+	background: url(../images/controls.png) no-repeat 0 -32px;
+}
+
+.bx-wrapper .bx-pager {
+	display: none;
+}
+
+.bx-prev {
+
+	right: 10px;
+}
+
+.logo-div {
+	float: left;
+	margin-left: 60px;
+	width: 125px;
+}
+
+.logo-a {
+	display: block;
+}
+
+@font-face {
+	font-family: 'fontello';
+	src: url('../font/fontello.eot?48632362');
+	src: url('../font/fontello.eot?48632362#iefix') format('embedded-opentype'),
+	url('../font/fontello.woff?48632362') format('woff'),
+	url('../font/fontello.ttf?48632362') format('truetype'),
+	url('../font/fontello.svg?48632362#fontello') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.cocial {
+	float: right;
+	padding-top: 30px;
+}
+
+.cok {
+	display: inline;
+}
+
+.f, .r, .gplus, .tumblr, .youtube, .instagram, .twitter {
+	font-family: "fontello";
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+	color: #fff;
+	font-size: 14px;
+	margin-right: 5px;
+}
+
+.to-order {
+	position: absolute;
+	background: #052fdd;
+	overflow: hidden;
+	width: 23%;
+	top: 10%;
+	z-index: 1;
+	left: 24.5%;
+}
+
+.small-order {
+	float: left;
+	overflow: hidden;
+	width: 100%;
+	background: #fff;
+}
+
+.order-1, .order-2 {
+	background: #ffffff;
+	color: #fb4d01;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	font-family: 'Raleway', sans-serif;
+}
+
+.order-1 {
+	padding-left: 20px;
+	float: left;
+	font-size: 0.98vw;
+
+}
+
+.order-2 {
+	float: right;
+	padding-right: 20px;
+	text-align: right;
+	font-size: 0.98vw;
+}
+
+.telega-div {
+	float: left;
+	margin-left: 20px;
+}
+
+.telega {
+	width: 3.3vw;
+}
+
+.cena {
+	float: left;
+	margin-left: 10px;
+}
+
+.cena-p {
+	font-family: 'Raleway', Semi-Bold;
+	color: #fff;
+	font-size: 1.4vw;
+	font-weight: 600;
+	margin-bottom: 6px;
+}
+
+.text-2014, .items, .viev, .Super {
+	font-family: 'Raleway', Regular;
+}
+
+.items {
+	color: #faef03;
+	margin-bottom: 10px;
+	font-size: 1.3vw;
+}
+
+.edit {
+	float: right;
+	margin-right: 5px;
+}
+
+.crest {
+	cursor: pointer;
+	text-align: center;
+	margin-bottom: 7px;
+}
+
+.crest-im {
+	width: 1vw;
+}
+
+.viev {
+	background: #052fdd;
+	float: left;
+	overflow: hidden;
+	width: 100%;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	font-weight: 600;
+}
+
+.viev-p {
+	float: left;
+	color: #fff;
+	font-size: 1.4vw;
+	padding-left: 20px;
+}
+
+.checkout {
+	float: right;
+	color: #fff;
+	font-size: 1.4vw;
+	padding-right: 20px;
+}
+
+.edit-p {
+	font-family: 'Raleway', Light;
+	font-size: 1.3vw;
+}
+
+.forma {
+	overflow: hidden;
+	width: 100%;
+}
+
+form {
+	overflow: hidden;
+}
+
+.b-mail__input {
+	width: 88%;
+	padding-top: 0.66vw;
+	padding-bottom: 0.66vw;
+	float: left;
+	font-size: 0.916vw;
+}
+
+.search-button {
+	width: 11%;
+	cursor: pointer;
+	background: url('../images/Search-Icon.png') no-repeat black center;
+	float: left;
+	border: 0;
+	padding-top: 0.66vw;
+	padding-bottom: 0.66vw;
+	position: absolute;
+}
+
+.welcome {
+	position: absolute;
+	padding-left: 23px;
+	max-width: 22.6%;
+	padding-top: 80px;
+	background: #faef03;
+	overflow: hidden;
+	float: left;
+	margin-bottom: 6px;
+	z-index: 1;
+	left: 165px;
+	top: 350px;
+}
+
+.square {
+	padding-top: 5.8vw;
+	position: absolute;
+	width: 18.31%;
+	background: yellow;
+	top: 43%;
+	left: 26%;
+	max-height: 69.65%;
+	padding-left: 1.7%;
+	overflow: hidden;
+}
+
+.square:after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
+
+.content-square {
+	position: absolute;
+	height:;
+}
+
+.text-welcome, .text-Theonly, .text-jp {
+	font-family: 'Raleway', Bold;
+}
+
+.text-welcome {
+	font-size: 3vw;
+	font-weight: 600;
+	color: #333333;
+	margin-bottom: 20px;
+}
+
+.nah {
+	display: none;
+}
+
+@media (max-width: 970px) {
+	.b-mail__input {
+		font-size: 1.5vw;
+	}
+}
+
+@media (max-width: 800px) {
+	@media all and (-webkit-min-device-pixel-ratio: 0) {
+		.text-welcome {
+			font-size: 20px;
+			background: red;
+		}
+	}
+}
+
+.jpd {
+	max-width: 27vw;
+	float: right;
+	position: absolute;
+	z-index: 1;
+	right: 8vw;
+	top: 21vw;
+}
+
+@media (max-width: 768px) {
+	.to-order {
+		top: 50.8vw;
+		left: 0;
+		width: 48.3%;
+		position: static;
+		float: left;
+	}
+
+	.bx-wrapper {
+		margin-bottom: 0;
+	}
+
+	.content-square {
+		position: static;
+		float: left;
+	}
+
+	.square::after {
+		padding-bottom: 0;
+	}
+
+	form {
+		width: 100%;
+	}
+
+	.order-1, .order-2 {
+		font-size: 1.7vw;
+	}
+
+	.square {
+		top: 50.8vw;
+		left: 37vw;
+		width: 50%;
+		max-height: 25.55%;
+		position: static;
+	}
+
+	.jpd {
+
+	}
+
+	.telega {
+		width: 7.3vw;
+	}
+
+	.cena-p {
+		font-size: 2.5vw;
+	}
+
+	.items, .edit-p {
+		font-size: 2.3vw;
+	}
+
+	.crest-im {
+		width: 2vw;
+	}
+}
+
+@media (max-width: 768px) {
+	.viev-p, .checkout {
+		font-size: 2.4vw;
+	}
+
+	.b-mail__input {
+		font-size: 1.7vw;
+	}
+
+	.search-button {
+		width: 5.4vw;
+	}
+}
+
+@media (max-width: 752px) {
+	.square {
+
+		margin-left: 0vw;
+	}
+}
+
+.f, .r, .gplus, .tumblr, .youtube, .instagram, .twitter {
+	font-size: 1vw;
+}
+
+.logo {
+	width: 9vw;
+}
+
+.text-Theonly {
+	font-size: 1.5vw;
+	font-weight: 600;
+	color: #333333;
+}
+
+.text-jp {
+	font-size: 3vw;
+	font-weight: 800;
+	color: #fff51f;
+}
+
+.text-2014 {
+	font-size: 3vw;
+	font-weight: 800;
+	color: #fff51f;
+	margin-top: -11px;
+}
+
+.Super {
+	color: #fff51f;
+	margin-bottom: 62px;
+	font-size: 1.5vw;
+}
+
+.batton {
+	width: 9vw;
+	background: #fff51f;
+	display: block;
+	text-align: center;
+	padding-top: 1.1vw;
+	padding-bottom: 1.1vw;
+	font-family: 'Raleway', Heavy;
+	font-weight: 800;
+	color: #000;
+	font-size: 1.1vw;
+}
+
+.exs {
+
+	padding: 10px;
+	margin: 0 auto;
+	width: 300px;
+	margin-top: -174px;
+}
